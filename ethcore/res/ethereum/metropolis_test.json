@@ -24,10 +24,15 @@
 		"maximumExtraDataSize": "0x20",
 		"minGasLimit": "0x1388",
 		"networkID" : "0x1",
-		"eip98Transition": "0x0",
+		"eip98Transition": "0x7fffffffffffffff",
 		"eip86Transition": "0x0",
-		"eip140Transition": "0x0",
-		"eip210Transition": "0x0"
+		"eip210Transition": "0x0",
+		"eip198Transition": "0x0",
+		"eip100Transition": "0x0",
+		"eip211Transition": "0x0",
+		"eip212Transition": "0x0",
+		"eip213Transition": "0x0",
+		"eip214Transition": "0x0"
 	},
 	"genesis": {
 		"seal": {
